@@ -15,7 +15,7 @@ Artificial intelligence, especially machine learning algorithms, plays a crucial
 
 ## Dataset
 
-The dataset used in this project consists of numeric features computed from digitized medical images of breast masses. 
+The dataset used in this project consists of numeric features computed from digitized medical images of breast masses.
 These features provide valuable information for diagnosing breast cancer. The ultimate goal is to build a robust classification model that accurately distinguishes between malignant and benign tumors.
 
 ## Project Structure
@@ -38,4 +38,3 @@ To reproduce the results and run the code in this project, follow these steps:
 4. Follow the instructions in the notebooks to explore the data, preprocess it, train the models, and evaluate their performance.
 
 Feel free to reach out if you have any questions or need further assistance.
-
